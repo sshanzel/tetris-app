@@ -1,3 +1,5 @@
+## This is an attempt to create a very simple 2D Game without checking any reference with regards to the app itself.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
